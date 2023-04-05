@@ -10,8 +10,8 @@ description: >
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: https://ucb-biostatistics-workshop.github.io # the base hostname & protocol for your site
-baseurl: /winter2023/ # the subpath of your site, e.g. /blog/
+url: biostatws23.github.io # the base hostname & protocol for your site
+# the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
